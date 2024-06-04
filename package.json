@@ -1,0 +1,11 @@
+{
+  "name": "erc1155",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:veerapandi-s/erc1155-non-transferable.git",
+  "author": "Veerapandi S <veerapandi_s@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
